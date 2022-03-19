@@ -1,0 +1,23 @@
+{
+  "imports": {
+    "/index.html": {
+      "entry": [
+        "/_dist_/app.js"
+      ],
+      "css": [
+        "/main.css"
+      ],
+      "js": [
+        "/_dist_/app.js",
+        "/_dist_/constants.js",
+        "/_dist_/utils/index.js",
+        "/web_modules/common/_commonjsHelpers-8c19dec8.js",
+        "/web_modules/common/linear-83fd5bf8.js",
+        "/web_modules/d3.js",
+        "/web_modules/dayjs.js",
+        "/web_modules/globe.gl.js"
+      ]
+    }
+  },
+  "generated": {}
+}
